@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="135.467mm" height="20.9126mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 13547 2091"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#83242C}
+    .fil1 {fill:#E6262C}
+    .fil2 {fill:#FEFEFE}
+    .fil3 {fill:#83242C;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+ </g>
+ <g id="svg2">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon class="fil0" points="2262,2090 0,2090 0,2 2262,2 "/>
+  <polygon class="fil1" points="285,366 1497,366 2103,1042 1497,1782 285,1782 828,1042 "/>
+  <polygon class="fil2" points="2103,1042 1497,366 285,366 828,1042 "/>
+  <path class="fil3" d="M3794 753c-62,-74 -153,-115 -269,-115 -237,0 -412,191 -412,453 0,262 175,453 402,453 127,0 229,-56 293,-151l261 193c-119,167 -320,244 -514,244 -444,0 -768,-288 -768,-739 0,-451 324,-739 768,-739 159,0 360,54 480,207l-241 195z"/>
+  <polygon class="fil3" points="4236,387 4550,387 4550,1794 4236,1794 "/>
+  <polygon class="fil3" points="4835,387 5309,387 5637,1305 5641,1305 5971,387 6443,387 6443,1794 6129,1794 6129,715 6125,715 5752,1794 5512,1794 5153,715 5149,715 5149,1794 4835,1794 "/>
+  <path class="fil3" d="M6732 387l530 0c249,0 521,52 521,358 0,157 -98,264 -245,310l0 4c187,24 311,161 311,344 0,294 -281,392 -535,392l-583 0 0 -1407zm313 563l0 0 227 0c96,0 197,-40 197,-153 0,-117 -113,-147 -211,-147l-213 0 0 300zm0 582l0 0 281 0c98,0 209,-42 209,-165 0,-133 -151,-155 -253,-155l-237 0 0 320z"/>
+  <path class="fil3" d="M8284 387l410 0c217,0 458,54 458,372 0,143 -86,258 -255,292l0 4c187,14 318,149 318,346 0,324 -283,394 -476,394l-454 0 0 -1407zm133 608l0 0 275 0c275,0 328,-149 328,-237 0,-197 -141,-252 -309,-252l-293 0 0 489zm0 680l0 0 303 0c312,0 362,-171 362,-270 0,-209 -173,-290 -342,-290l-324 0 0 561z"/>
+  <path class="fil3" d="M9986 387l137 0 599 1407 -149 0 -155 -374 -754 0 -161 374 -139 0 621 -1407zm62 143l0 0 -332 771 653 0 -322 -771z"/>
+  <polygon class="fil3" points="10926,387 11097,387 11963,1619 11967,1619 11967,387 12100,387 12100,1794 11929,1794 11063,562 11059,562 11059,1794 10926,1794 "/>
+  <polygon class="fil3" points="12490,387 12622,387 12622,1007 12634,1007 13324,387 13506,387 12787,1031 13547,1794 13356,1794 12634,1067 12622,1067 12622,1794 12490,1794 "/>
+ </g>
+</svg>
